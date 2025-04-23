@@ -1,6 +1,3 @@
-Here's a professional `README.md` for your Discord bot project in Brazilian Portuguese (with emojis for better organization):
-
-```markdown
 # 🤖 Sara - Bot de Discord para Comunidades
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -35,7 +32,7 @@ Um bot Discord modular para auxiliar na administração de servidores, com siste
 2. **Configuração**:
    ```bash
    # Clone o repositório
-   git clone https://github.com/seu-usuario/sara-bot.git
+   git clone https://github.com/ThalisVN/sara-bot.git
    cd sara-bot
 
    # Instale as dependências
@@ -82,17 +79,3 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 > **Nota**: Nunca compartilhe seu token no código. Sempre use variáveis de ambiente!
 ```
 
-### Recursos incluídos:
-1. Badges de versão para Python/Discord.py
-2. Seção de funcionalidades organizada por categorias
-3. Guia visual de estrutura de arquivos
-4. Dicas de segurança destacadas
-5. Emojis para melhorar a legibilidade
-
-Você pode personalizar com:
-- Seu nome/autor
-- Link do repositório real
-- Comandos adicionais
-- Informações específicas do seu servidor
-
-Quer que eu adicione alguma seção específica ou ajuste algo no formato? 😊
